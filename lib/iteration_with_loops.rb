@@ -8,7 +8,9 @@ def find_even_values(src)
     p array_of_arrays[count]
     
     inner_count = 0 
-    
+    while inner_count < array_of_arrays.length do 
+      
+    end 
   end 
 
 end
