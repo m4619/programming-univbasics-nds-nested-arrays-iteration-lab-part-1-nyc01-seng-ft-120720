@@ -5,9 +5,7 @@ def find_even_values(src)
   num = 0 
   
   while num < src.count do 
-    
     element = 0 
-    
     while element < src.[num].count do 
       if src[num][element].even?
         p src[num][element]
